@@ -1,0 +1,41 @@
+console.log(ethers.utils.formatEther(contractBalance));
+console.log(contractBalance.toString());
+console.log(contractBalance.toStr
+contractBalance = await skillPayment.getBalance(deployer.address);
+console.log(contractBalance.toString());
+contractBalance = await skillPayment.getBalance(deployer.address);
+console.log(contractBalance
+const contractBalance = await skillPayment.getBalance(deployer.address);
+console.log(contractBalance.toString());
+contractBalance = await skillPayment.getBalance(deployer.address);
+console.log(contractBalance
+const contractBalance = await skillPayment.getBalance(deployer.address);
+console.log(contractBalance.toString());
+const contractBalance = await skillPayment.getBalance();
+console.log(balance.toString());
+const balance = await skillPayment.getBalance(deployer.address);
+await skillPayment.paySkillProvider(deployer.address, { value: ethers.utils.parseEther("1") });
+await skillPayment.paySkillProvider(deployer.address, { value: ethers.parseEther("1") });
+import { parseEther } from "ethers";
+console.log("Payment Sent!");
+await skillPayment.paySkillProvider(deployer.address, { value: parseEther("1") });
+import { parseEther } from "ethers";
+const paymentEvents = await skillPayment.filters.PaymentReceived();
+console.log(paymentEvents);
+console.logconst paymentEvents = await skillPayment.filters.PaymentReceived();
+await skillPayment.paySkillProvider(deployer.address, { value: ethers.parseEther("1") });
+const paymentEvents = await skillPayment.filters.Pconsole.log(paymentEvents);
+console.log(balance.toString());
+const balance = await skillPayment.getBalance(deployer.address);
+console.log(owner);
+const owner = await skillPayment.owner();
+console.const owner = await skillPayment.owner();
+const owner = await skillPayment.owner();
+console.log(skillPayment);
+console.log(owner);
+const skillPayment = await ethers.getContractAt("SkillPayment", "0x5FbDB2315678afecb367f032d93F642f64180aa3");
+console.log(deployer.address);
+const [deployer, user1, user2] = await ethers.getSigners();
+.exit
+npx hardhat console --network localhost
+const [deployer, user1, user2] = await ethers.getSigners();
