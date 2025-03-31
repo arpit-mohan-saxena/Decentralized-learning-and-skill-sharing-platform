@@ -62,7 +62,6 @@ This project is licensed under the MIT License.
 
 ## 📢 Stay Connected
 
-- Twitter: [@yourhandle](https://twitter.com/yourhandle)
-- Discord: [Join the Community](#)
+- Email - arpitmohansaxena99@gmail.com
 
 🚀 **Let's revolutionize education with decentralization!**
