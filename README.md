@@ -38,7 +38,7 @@ This project is currently **under development**, and updates will be shared on G
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/decentralized-learning-platform.git
+git clone https://github.com/arpit-mohan-saxena/decentralized-learning-platform.git
 cd decentralized-learning-platform
 
 # Install dependencies
